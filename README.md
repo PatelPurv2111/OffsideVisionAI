@@ -1,1 +1,1 @@
-# OffsideVisionAI
+# LocalVAR
